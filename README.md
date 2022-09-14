@@ -1,5 +1,6 @@
 My Wombat Poem
-Wombats are big and small
+Wombats are big 
+Furry and small
 They are brown 
 they have four legs and two eyes 
 they have no necks 
